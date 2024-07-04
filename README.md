@@ -1,17 +1,20 @@
-Paing Kaung Thant
-paingkaungthant.tu@gmail.com || +66 831568618
-Education 
-Bachelor of Science in Information Technology			        2022 - 2026 
-Payap University, The International College			    Chiang Mai, Thailand
-* CGPA:3.86/4.00, President's Honor list
-* Relevant courses: Data Structures, Discrete Maths, OOP, Operating Systems
-Experience
-Research Assistant						      Jan 2024 - Present
-Department of Information Technology, Payap University          Chiang Mai, Thailand
-* Assist in creating a booking system for a community village using Ruby
-* Supported the development and implementation of the website
-* Collaborated with team members to troubleshoot and resolve technical issues
-Financial Assistant							        2018 - 2020
+# Paing Kaung Thant
+## paingkaungthant.tu@gmail.com || +66 831568618
+
+# Education 
+* Bachelor of Science in Information Technology			        2022 - 2026 <br>
+ Payap University, The International College			    Chiang Mai, Thailand
+
+   * CGPA:3.86/4.00, President's Honor list
+   * Relevant courses: Data Structures, Discrete Maths, OOP, Operating Systems
+
+# Experience
+* Research Assistant						      Jan 2024 - Present <br>
+  Department of Information Technology, Payap University          Chiang Mai, Thailand
+   * Assist in creating a booking system for a community village using Ruby
+   * Supported the development and implementation of the website
+   * Collaborated with team members to troubleshoot and resolve technical issues
+* Financial Assistant							        2018 - 2020 <br>  
 Htee Day Star Co. Ltd.							Kayah, Myanmar
 * Manage business financial transactions of upwards of $100,000 
 * Meticulously maintained financial records to ensure accurate bookkeeping
