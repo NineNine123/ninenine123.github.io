@@ -1,5 +1,5 @@
 # Paing Kaung Thant
-## paingkaungthant.tu@gmail.com || +66 831568618
+## email: paingkaungthant.tu@gmail.com <br> phone: +66 831568618
 
 # Education 
 * Bachelor of Science in Information Technology			        2022 - 2026 <br>
