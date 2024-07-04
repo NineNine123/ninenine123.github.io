@@ -14,7 +14,6 @@
    * Supported the development and implementation of the website
    * Collaborated with team members to troubleshoot and resolve technical issues
 * Financial Assistant							        2018 - 2020 <br>  
-Htee Day Star Co. Ltd.							Kayah, Myanmar
 * Manage business financial transactions of upwards of $100,000 
 * Meticulously maintained financial records to ensure accurate bookkeeping
 * Facilitated market research and established new market connections to support the opening of a new business branch
@@ -2409,13 +2408,7 @@ color:black;mso-themecolor:text1;mso-font-kerning:0pt;mso-bidi-language:TH'>Fina
 Assistant<span style='mso-tab-count:7'>                                                                                    </span><span
 style='mso-spacerun:yes'>        </span>2018 - 2020<o:p></o:p></span></b></p>
 
-<p class=MsoNormal style='line-height:115%'><span class=SpellE><i><span
-style='font-family:"Arial",sans-serif;color:black;mso-themecolor:text1;
-mso-font-kerning:0pt;mso-bidi-language:TH'>Htee</span></i></span><i><span
-style='font-family:"Arial",sans-serif;color:black;mso-themecolor:text1;
-mso-font-kerning:0pt;mso-bidi-language:TH'> Day Star Co. Ltd.<span
-style='mso-tab-count:7'>                                                                                </span>Kayah,
-Myanmar<o:p></o:p></span></i></p>
+
 
 <p class=MsoListParagraphCxSpFirst style='text-indent:-.25in;line-height:115%;
 mso-list:l1 level1 lfo3'><![if !supportLists]><span style='font-family:Symbol;
